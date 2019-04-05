@@ -1,0 +1,5 @@
+pip==19.0.3
+setuptools==41.0.0
+awscli==1.16.139
+encode-utils==2.6.1
+jsonschema
